@@ -1,6 +1,7 @@
 {
   "name": "supermundano/acf-timezone-picker",
   "type": "wordpress-plugin",
+  "license": "MIT",
   "description": "ACF Timezone Picker plugin by Beau Watson. Supermundano just added a composer.json file ;D",
   "authors": [
     {
