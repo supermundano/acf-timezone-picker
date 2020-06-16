@@ -1,0 +1,15 @@
+{
+  "name": "supermundano/acf-timezone-picker",
+  "type": "wordpress-plugin",
+  "description": "ACF Timezone Picker plugin by Beau Watson. Supermundano just added a composer.json file ;D",
+  "authors": [
+    {
+      "name": "Beau Watson",      
+      "homepage": "https://github.com/DocWatson"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "^1.0"
+  }
+}
